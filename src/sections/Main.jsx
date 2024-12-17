@@ -89,7 +89,7 @@ function UbicationWork() {
           Disponible para Trabajar
         </span>
         <a
-          href="src/files/Tadeo-Parmigiani-CV-(1).pdf" 
+          href="/mi-portafolio/files/Tadeo-Parmigiani-CV-(1).pdf" 
           download="Tadeo-Parmigiani-CV.pdf"
           className="h-8 cursor-pointer font-rubik rounded-md px-4 bg-blue-500 hover:bg-blue-800 dark:hover:bg-blue-700 transition-background duration-300 text-white flex items-center font-semibold"
         >
